@@ -2,7 +2,7 @@
 
 **ML Assignment 2 · M.Tech (Data Science & Engineering) · BITS Pilani WILP**
 
-Live app: `<PASTE YOUR STREAMLIT APP LINK HERE>`
+Live app: https://drybean-vijay.streamlit.app/
 
 ---
 
@@ -52,7 +52,7 @@ CALI 12.0%, BARBUNYA 9.7%, BOMBAY 3.8%.
 
 ## c. GitHub repository link
 
-`https://github.com/<your-username>/drybean-classifier`
+`https://github.com/vijaytyagi-ml/drybean-classifier`
 
 ```
 drybean-classifier/
